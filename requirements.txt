@@ -1,0 +1,12 @@
+# Python Dependencies for Order Flow Pipeline
+
+# Kafka
+kafka-python>=2.0.2
+
+# PySpark (install separately via pip or use Spark's bundled version)
+# pyspark>=3.5.0
+
+# MySQL Connector (for PySpark JDBC connection)
+# Note: MySQL JDBC driver must be included in Spark's classpath
+# Download from: https://dev.mysql.com/downloads/connector/j/
+
