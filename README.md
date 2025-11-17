@@ -1,4 +1,4 @@
-# 🚀 OrderFlow: Real-Time E-Commerce Order Tracking Pipeline
+#  OrderFlow: Real-Time E-Commerce Order Tracking Pipeline
 
 A production-ready real-time data pipeline using Apache Kafka, Apache Spark Structured Streaming, and MySQL for tracking e-commerce orders.
 
