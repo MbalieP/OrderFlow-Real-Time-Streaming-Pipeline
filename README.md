@@ -6,7 +6,7 @@ A production-ready real-time data pipeline using Apache Kafka, Apache Spark Stru
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
 ![Spark](https://img.shields.io/badge/Spark-3.0%2B-orange)
 
-## 📑 Table of Contents
+## Table of Contents
 - [Overview](#-overview)
 - [Tech Stack](#-tech-stack)
 - [Features](#-features)
