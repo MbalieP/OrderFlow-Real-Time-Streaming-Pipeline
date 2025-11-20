@@ -52,7 +52,7 @@ This project demonstrates a production-ready real-time data pipeline for e-comme
 - ✅ **Type Safety**: Complete type hints for better code quality
 
 ### ⚡ Pipeline Features
-- 🔄 **Real-time Processing**: Micro-batch stream processing with Spark Structured Streaming
+-  **Real-time Processing**: Micro-batch stream processing with Spark Structured Streaming
 - 📊 **Schema Enforcement**: JSON parsing with strict schema validation
 - 💾 **Batch Optimization**: Efficient batch-wise writing to MySQL
 - 🔌 **Extensible**: Easy integration with Apache Airflow, dashboards, and monitoring tools
