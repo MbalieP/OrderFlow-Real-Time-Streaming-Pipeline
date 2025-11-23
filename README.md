@@ -162,7 +162,7 @@ export STARTING_ORDER_ID='1000'
 
 # Run producer
 python kafka_order_producer.py
-📋 Message Schema
+ Message Schema
 Sample Message
 json
 {
