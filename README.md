@@ -72,7 +72,7 @@ text
 3. Spark consumes and processes events in micro-batches
 4. Processed data written to MySQL for analytics
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Python 3.7 or higher
