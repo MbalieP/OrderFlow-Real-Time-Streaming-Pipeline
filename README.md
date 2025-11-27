@@ -40,9 +40,9 @@ This project demonstrates a production-ready real-time data pipeline for e-comme
 | Database | MySQL | Persistent storage for analytics |
 | Language | Python 3.7+ | Primary development language |
 
-## 💡 Features
+## Features
 
-### 🎯 Producer Features
+### Producer Features
 - ✅ **Robust Error Handling**: Automatic retry logic with configurable connection retries
 - ✅ **Graceful Shutdown**: Handles SIGINT/SIGTERM signals cleanly with message flushing
 - ✅ **Comprehensive Logging**: Dual output to file (`kafka_producer.log`) and console
