@@ -201,12 +201,12 @@ orderflow-ecommerce-pipeline/
     └── kafka_producer.log          # Producer log file (auto-generated)
 File Descriptions
 File	Purpose	Lines	Status
-kafka_order_producer.py	Generates and publishes order messages to Kafka	~200	✅ Production-ready
-spark_to_mysql.py	Consumes Kafka stream and writes to MySQL	~115	✅ Robust
-spark_order_consumer.py	Console output for testing/debugging	~70	🔧 Development tool
-requirements.txt	Python package dependencies	-	📦 Required
-env.example	Configuration template	-	📋 Template
-💻 Usage Examples
+kafka_order_producer.py	Generates and publishes order messages to Kafka	~200	Production-ready
+spark_to_mysql.py	Consumes Kafka stream and writes to MySQL	~115	Robust
+spark_order_consumer.py	Console output for testing/debugging	~70	Development tool
+requirements.txt	Python package dependencies	-	 Required
+env.example	Configuration template	-	 Template
+ Usage Examples
 Basic Usage
 Start Producer:
 
